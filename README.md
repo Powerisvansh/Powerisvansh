@@ -177,6 +177,10 @@ I prefer practical learning: make a prototype, understand the result, document t
 
 Not every experiment needs to become a finished product. Each project should help me understand something more clearly.
 
+## Achievements
+
+- [Quickdraw](https://github.com/Powerisvansh?achievement=quickdraw&tab=achievements) — GitHub achievement earned for quickly completing a pull request.
+
 ## Contact
 
 - GitHub: [Powerisvansh](https://github.com/Powerisvansh)
