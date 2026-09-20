@@ -85,6 +85,13 @@ Linux, Windows, Git, GitHub, VS Code, CMake, QEMU, NASM, GitHub Pages, and comma
 | [ArduinoHub](https://github.com/Powerisvansh/Arduino) | Electronics education | Published learning project |
 | [Web Works Portfolio](https://github.com/Powerisvansh/portfolio-my) | Frontend development | Published project |
 
+### Live Projects
+
+- [Ice Hub](https://powerisvansh.github.io/I-C/) — Instrumentation & Control Engineering study platform
+- [ArduinoHub](https://powerisvansh.github.io/Arduino/) — Arduino and electronics learning platform
+- [Web Works Portfolio](https://powerisvansh.github.io/portfolio-my/) — Responsive frontend portfolio
+- [SARTHI-ELECTRICALS](https://powerisvansh.github.io/SARTHI-ELECTRICALS/) — Responsive electrical-services website project
+
 ### [LUKE](https://github.com/Powerisvansh/LUKE-)
 
 A personal Linux desktop and operating-system project with a custom shell, launcher, system applications, design system, boot visuals, and deployment tooling.
