@@ -76,6 +76,15 @@ Linux, Windows, Git, GitHub, VS Code, CMake, QEMU, NASM, GitHub Pages, and comma
 
 ## Featured Projects
 
+| Project | Area | Status |
+| --- | --- | --- |
+| [LUKE](https://github.com/Powerisvansh/LUKE-) | Linux desktop systems | Active rebuild |
+| [NOVA-AI](https://github.com/Powerisvansh/NOVA-AI) | AI desktop software | In development |
+| [AuroraOS](https://github.com/Powerisvansh/operating-system) | Operating systems | Experimental development |
+| [Ice Hub](https://github.com/Powerisvansh/I-C) | Engineering education | Published and under development |
+| [ArduinoHub](https://github.com/Powerisvansh/Arduino) | Electronics education | Published learning project |
+| [Web Works Portfolio](https://github.com/Powerisvansh/portfolio-my) | Frontend development | Published project |
+
 ### [LUKE](https://github.com/Powerisvansh/LUKE-)
 
 A personal Linux desktop and operating-system project with a custom shell, launcher, system applications, design system, boot visuals, and deployment tooling.
